@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="/embalse_yeso.jpg" alt="Paisaje" width="150">
-</p>
 ---
 layout: single
 title: ""
 permalink: /
 author_profile: true
+header:
+  teaser: /embalse_yeso.jpg
 ---
 
 Bienvenido.
