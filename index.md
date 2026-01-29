@@ -13,3 +13,6 @@ Este sitio reúne:
 - mi trabajo académico,
 - información profesional,
 - y algunos escritos personales.
+<p align="center">
+  <img src="/embalse_yeso.jpg" alt="Paisaje" width="300">
+</p>
