@@ -1,0 +1,15 @@
+main:
+  - title: "Inicio"
+    url: /
+
+  - title: "Sobre mí"
+    url: /about/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Writing"
+    url: /writing/
