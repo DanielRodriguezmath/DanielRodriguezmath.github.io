@@ -1,6 +1,14 @@
-title: Daniel Rodríguez
+title: Daniel Rodriguez
 description: Matemáticas · Investigación · Escritos personales
+minimal_mistakes_skin: air
+layout: single
 
+author:
+  name: Daniel Rodriguez
+  avatar:
+  bio: >
+    Matemático. Teoría de números.
+    Escritos académicos y personales.
 remote_theme: mmistakes/minimal-mistakes
 
 markdown: kramdown
