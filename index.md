@@ -15,5 +15,5 @@ Este sitio reúne:
 - y algunos escritos personales.
 
 <p align="center">
-  <img src="embalse_yeso.jpg" width="100">
+  <img src="embalse_yeso.jpg" alt="Paisaje" style="width:150px; max-width:100%; height:auto;">
 </p>
