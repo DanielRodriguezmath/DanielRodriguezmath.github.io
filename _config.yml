@@ -1,0 +1,11 @@
+title: Daniel Rodriguez
+description: Matemáticas · Investigación · Escritos personales
+
+theme: minimal-mistakes-jekyll
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+plugins:
+  - jekyll-feed
