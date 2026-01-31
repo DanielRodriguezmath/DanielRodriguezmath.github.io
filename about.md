@@ -1,10 +1,10 @@
 ---
-title: "Sobre mí"
+title: "About me"
 permalink: /about/
 layout: single
 ---
 
-Soy matemático, con intereses principales en **teoría de números** y **geometría aritmética**.
+I am Soy matemático, con intereses principales en **teoría de números** y **geometría aritmética**.
 
 Mi trabajo se centra en el estudio de estructuras aritméticas y sus relaciones con la geometría, con especial interés en cuerpos de números, álgebras de cuaterniones, curvas de Shimura  y variedades abelianas.
 
