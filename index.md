@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Bienvenido.
+Welcome.
 
 Soy **Daniel Rodriguez**, matemático con intereses en **teoría de números** y geometría aritmética.
 
