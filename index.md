@@ -12,7 +12,9 @@ I am **Daniel Rodriguez**, a mathematician with interests in **number theory and
 This site brings together:
 
 -my academic work,
+
 -professional information,
+
 -and some personal writings.
 
 <p align="center">
