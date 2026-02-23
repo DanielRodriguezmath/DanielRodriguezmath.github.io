@@ -4,17 +4,29 @@ permalink: /cv/
 layout: single
 ---
 
+## Information
+
+I received my Master’s degree in Mathematics from the National University of Colombia. I have taught courses in basic mathematics and abstract algebra, serving both as lecturer and teaching assistant. I am currently a Ph.D. candidate in number theory.
+
 ## Education
 
-**Ph.D. in Mathematics (ongoing)**  
-Pontificia Universidad Católica de Chile  
-I am a mathematician whose main interests lie in number theory and arithmetic geometry.
+**2011–2018**
+B.Sc. in Mathematics
+National University of Colombia
 
-My work focuses on the study of arithmetic structures and their relationships with geometry, with particular emphasis on number fields, quaternion algebras, Shimura curves, and abelian varieties.
+**2019–2021**
+M.Sc. in Mathematical Sciences, with Distinction
+National University of Colombia
 
-I am currently a fourth-year Ph.D. student in Mathematics at the Pontificia Universidad Católica de Chile.
+-Master’s Thesis: Artin Reciprocity Law
 
---
+-Advisor: John Jaime Rodríguez Vega, Ph.D.
 
-Beyond research, I am interested in writing as a way of thinking and organizing ideas.
-This site serves both as an academic space and as a personal place to write with freedom and care.
+**2023–Present**
+Ph.D. in Mathematics
+Pontificia Universidad Católica de Chile
+
+
+
+
+
