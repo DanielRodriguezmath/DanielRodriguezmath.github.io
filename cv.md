@@ -39,5 +39,12 @@ Pontificia Universidad Católica de Chile
 
 Instructor for the course Precalculus
 
+**March 2025 - July 2025**
+Lecturer 
+
+Pontificia Universidad Católica de Chile
+
+Instructor for the course Calculus I
+
 
 
