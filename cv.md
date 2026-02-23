@@ -12,10 +12,12 @@ I received my Master’s degree in Mathematics from the National University of C
 
 **2011–2018**
 B.Sc. in Mathematics
+
 National University of Colombia
 
 **2019–2021**
 M.Sc. in Mathematical Sciences, with Distinction
+
 National University of Colombia
 
 -Master’s Thesis: Artin Reciprocity Law
@@ -24,6 +26,7 @@ National University of Colombia
 
 **2023–Present**
 Ph.D. in Mathematics
+
 Pontificia Universidad Católica de Chile
 
 
