@@ -4,13 +4,13 @@ permalink: /about/
 layout: single
 ---
 
-I am Soy matemático, con intereses principales en **teoría de números** y **geometría aritmética**.
+I am a mathematician whose main interests lie in number theory and arithmetic geometry.
 
-Mi trabajo se centra en el estudio de estructuras aritméticas y sus relaciones con la geometría, con especial interés en cuerpos de números, álgebras de cuaterniones, curvas de Shimura  y variedades abelianas.
+My work focuses on the study of arithmetic structures and their relationships with geometry, with particular emphasis on number fields, quaternion algebras, Shimura curves, and abelian varieties.
 
-Actualmente soy estudiante de cuarto año del doctorado en matemáticas en la Pontificia Universidad Católica de Chile.
+I am currently a fourth-year Ph.D. student in Mathematics at the Pontificia Universidad Católica de Chile.
 
----
+--
 
-Más allá de la investigación, me interesa la escritura como una forma de pensar y de ordenar ideas.  
-Este sitio es tanto un espacio académico como un lugar personal para escribir con libertad y cuidado.
+Beyond research, I am interested in writing as a way of thinking and organizing ideas.
+This site serves both as an academic space and as a personal place to write with freedom and care.
