@@ -23,7 +23,21 @@ M.Sc. in Mathematical Sciences, with Distinction, National University of Colombi
 **2023–Present**
 Ph.D. in Mathematics, Pontificia Universidad Católica de Chile
 
+## Teaching Experience
 
+**August 2023 – December 2023**
+Teaching Assistant
+
+Pontificia Universidad Católica de Chile
+
+Teaching assistant for Prof. Mauricio Bustamante, Ph.D., in Abstract Algebra I
+
+**March 2024 – July 2024**
+Lecturer
+
+Pontificia Universidad Católica de Chile
+
+Instructor for the course Precalculus
 
 
 
